@@ -36,3 +36,33 @@ Screenshots "Gradient-Dark-Plasma":
 ![4](https://github.com/L4ki/Gradient-Plasma-Themes/assets/45247573/76898232-674b-486f-8833-37221cfcbd75)
 
 ![5](https://github.com/L4ki/Gradient-Plasma-Themes/assets/45247573/0fba5faf-0a18-4f81-9751-41554f5f4f66)
+
+
+Changelog: 05.09.2023.
+----------------------
+
+Aurorae Themes
+--------------
+
+Update: decoration.svg
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Kvantum Theme
+-------------
+
+Update: Gradient-Dark-Kvantum.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: image.svg
+
