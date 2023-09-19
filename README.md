@@ -85,3 +85,21 @@ Plasma Theme
 
 Added icon: emblem.svg
 
+Changelog: 19.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame-notebook.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: akonadi.svg
+
