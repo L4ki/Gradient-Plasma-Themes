@@ -103,3 +103,26 @@ Plasma Theme
 
 Added icon: akonadi.svg
 
+Changelog: 26.09.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame-inline.png
+
+Kvantum Theme
+-------------
+
+Update: Gradient-Dark-Kvantum.svg
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: accessories.svg
+
