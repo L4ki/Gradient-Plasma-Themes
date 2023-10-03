@@ -126,3 +126,21 @@ Plasma Theme
 
 Added icon: accessories.svg
 
+Changelog: 03.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: frame.png
+
+Icons
+-----
+
+Update icons: applets 64
+
+Plasma Theme
+------------
+
+Added icon: yakuake.svg
+
