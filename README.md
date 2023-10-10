@@ -144,7 +144,7 @@ Plasma Theme
 
 Added icon: yakuake.svg
 
-Changelog: 03.10.2023.
+Changelog: 10.10.2023.
 ----------------------
 
 GTK Theme
