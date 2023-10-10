@@ -144,3 +144,22 @@ Plasma Theme
 
 Added icon: yakuake.svg
 
+Changelog: 03.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: focus.png
+
+Icons
+-----
+
+Added icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: antimicro.svg
+
+
