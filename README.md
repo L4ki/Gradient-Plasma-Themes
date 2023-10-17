@@ -162,4 +162,21 @@ Plasma Theme
 
 Added icon: antimicro.svg
 
+Changelog: 17.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: menu-border.png
+
+Icons
+-----
+
+Added icons: applets 64
+
+Plasma Theme
+------------
+
+Update widget: line.svg
 
