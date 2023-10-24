@@ -180,3 +180,21 @@ Plasma Theme
 
 Update widget: line.svg
 
+Changelog: 24.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: handle.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: cadence.svg
+
