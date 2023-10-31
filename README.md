@@ -217,3 +217,8 @@ Plasma Theme
 
 Added icon: corectrl.svg
 
+Window Decorations
+------------------
+
+Update: decoration.svg
+
