@@ -198,3 +198,22 @@ Plasma Theme
 
 Added icon: cadence.svg
 
+
+Changelog: 31.10.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: treeview-separator-ltr.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: corectrl.svg
+
