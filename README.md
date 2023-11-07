@@ -222,3 +222,23 @@ Window Decorations
 
 Update: decoration.svg
 
+Changelog: 07.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: treeview-separator-rtl.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: krusader_user.svg, krusader_root.svg
+
+
+
