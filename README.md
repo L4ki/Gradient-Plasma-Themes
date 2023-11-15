@@ -240,5 +240,23 @@ Plasma Theme
 
 Added icons: krusader_user.svg, krusader_root.svg
 
+Changelog: 16.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: progressbar-vert-trough.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: search.svg
+
 
 
