@@ -258,5 +258,23 @@ Plasma Theme
 
 Added icons: search.svg
 
+Changelog: 24.11.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: progressbar-horz-trough.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icons: transform.svg
+
 
 
