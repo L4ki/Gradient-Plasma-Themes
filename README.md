@@ -294,6 +294,24 @@ Plasma Theme
 
 Added icon: ring.svg
 
+Changelog: 08.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: styles
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: telegram.svg
+
 
 
 
