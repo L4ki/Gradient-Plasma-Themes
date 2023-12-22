@@ -335,6 +335,30 @@ Aurorae Themes
 
 Update: restore.svg
 
+Changelog: 22.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: checkbox-mixed.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: dropbox.svg
+
+Aurorae Themes
+--------------
+
+Update: alldesktops.svg
+
+
 
 
 
