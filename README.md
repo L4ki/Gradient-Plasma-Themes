@@ -359,6 +359,30 @@ Aurorae Themes
 Update: alldesktops.svg
 
 
+Changelog: 29.12.2023.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtk-4.0
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: plasmavault.svg, plasmavault_error.svg
+
+Aurorae Themes
+--------------
+
+Update: close.svg
+
+
 
 
 
