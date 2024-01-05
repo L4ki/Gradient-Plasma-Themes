@@ -383,6 +383,25 @@ Aurorae Themes
 Update: close.svg
 
 
+Changelog: 05.01.2024.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtk-3.0
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added icon: jami.svg
+
+
 
 
 
