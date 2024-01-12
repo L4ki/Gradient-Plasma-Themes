@@ -401,6 +401,24 @@ Plasma Theme
 
 Added icon: jami.svg
 
+Changelog: 12.01.2024.
+----------------------
+
+GTK Theme
+----------
+
+Update: gtkrc
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Added icon: solaar.svg
+
 
 
 
