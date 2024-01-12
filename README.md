@@ -419,6 +419,11 @@ Plasma Theme
 
 Added icon: solaar.svg
 
+Aurorae Themes
+--------------
+
+Update: minimize.svg
+
 
 
 
