@@ -4,7 +4,7 @@
    height="22"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="minimize.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -15,7 +15,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#000000"
-     bordercolor="#008080"
+     bordercolor="#006666"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
@@ -52,7 +52,22 @@
      id="defs3">
     <style
        id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {&#10;        color:#e0e0e0;&#10;        stop-color:#e0e0e0;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#2c2c2c;&#10;        stop-color:#2c2c2c;&#10;      }&#10;      .ColorScheme-HeaderBackground {&#10;        color:#242424;&#10;        stop-color:#242424;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#e0e0e0;&#10;        stop-color:#e0e0e0;&#10;      }</style>
+       type="text/css">.ColorScheme-Text {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-Background {
+        color:#2c2c2c;
+        stop-color:#2c2c2c;
+      }
+      .ColorScheme-HeaderBackground {
+        color:#242424;
+        stop-color:#242424;
+      }
+      .ColorScheme-Highlight {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }</style>
   </defs>
   <g
      inkscape:label="Layer 1"
