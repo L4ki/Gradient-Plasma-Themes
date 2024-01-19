@@ -424,6 +424,29 @@ Aurorae Themes
 
 Update: minimize.svg
 
+Changelog: 19.01.2024.
+----------------------
+
+GTK Theme
+----------
+
+Update: checkbox-unchecked-insensitive.png
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Update icon: telegram.svg
+
+Aurorae Themes
+--------------
+
+Update: keepabove.svg
+
 
 
 
