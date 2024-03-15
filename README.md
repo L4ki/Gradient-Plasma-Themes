@@ -64,6 +64,22 @@ Aurorae Themes
 Update: Auroraerc
 
 
+Changelog: 15.03.2024.
+----------------------
+
+"Gradient-Dark-Icons"
+--------------------
+
+Added new icons: apps 48
+
+
+
+Aurorae Themes za Plasma 6
+--------------------------
+
+Update: metadata.json
+
+
 
 
 
