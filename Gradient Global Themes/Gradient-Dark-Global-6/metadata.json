@@ -1,0 +1,35 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Gradient-Dark-Global-6",
+        "Description": "Gradient-Dark Global Theme by l4k1",
+        "Id": "Gradient-Dark-Global-6",
+        "Version": "1.2",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Gradient-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2135928",
+        "kns://window-decorations.knsrc/api.kde-look.org/2135926",
+        "kns://colorschemes.knsrc/api.kde-look.org/2078411",
+        "kns://colorschemes.knsrc/api.kde-look.org/2078410",
+        "kns://colorschemes.knsrc/api.kde-look.org/2078407",
+        "kns://icons.knsrc/api.kde-look.org/2078427",
+        "kns://icons.knsrc/api.kde-look.org/2078422",
+        "kns://icons.knsrc/api.kde-look.org/2119129",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2078440",
+        "kns://wallpaper.knsrc/api.kde-look.org/2078392",
+        "kns://wallpaper.knsrc/api.kde-look.org/2078390"
+    ]
+}
