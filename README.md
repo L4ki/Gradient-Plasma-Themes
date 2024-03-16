@@ -48,8 +48,8 @@ GTK Theme
 
 Update: styles
 
-Icons
------
+Icons "Gradient-KDE-Story-Blue-Dark-Icons"
+-----------------------------------------
 
 Added new icons: apps 48
 
