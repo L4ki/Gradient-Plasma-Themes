@@ -71,7 +71,7 @@ Changelog: 15.03.2024.
 
 Added new icons: apps 48
 
-Aurorae Themes za Plasma 6
+Aurorae Themes for Plasma 6
 --------------------------
 
 Update: metadata.json
