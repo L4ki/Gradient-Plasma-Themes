@@ -40,27 +40,26 @@ Screenshots "Gradient-Dark-Plasma":
 
 ______________________________________
 
-Changelog: 06.04.2024.
+Changelog: 13.04.2024.
 ----------------------
 
 GTK Theme
 ---------
-Update: gtkrc
+Update: apps.rc
 
 Icons 
 -----
 
-Added new icons: apps 48
+Update icons: apps 48
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
-
-Aurorae Themes
---------------
+Update widget: action-overlays.svg
 
 Update: metadata.desktop
+
+
 
 
 
