@@ -59,6 +59,11 @@ Update widget: scrollbar.svg
 
 Update: metadata.desktop
 
+Aurorae Themes
+--------------
+
+Update: metadata.desktop
+
 
 
 
