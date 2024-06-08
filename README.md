@@ -40,13 +40,13 @@ Screenshots "Gradient-Dark-Plasma":
 
 ______________________________________
 
-Changelog: 01.06.2024.
+Changelog: 08.06.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: apps.rc
 
 Icons 
 -----
@@ -56,17 +56,14 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: slider.svg
+Update widget: margins-highlight.svg
 
 Aurorae Themes
 --------------
 
 Update: metadata.desktop
 
-Changelog: 15.05.2024.
-----------------------
 
-Added: SDDM Login Theme For Plasma 6
 
 
 
