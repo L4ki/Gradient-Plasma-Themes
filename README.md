@@ -40,7 +40,7 @@ Screenshots "Gradient-Dark-Plasma":
 
 ______________________________________
 
-Changelog: 08.06.2024.
+Changelog: 15.06.2024.
 ----------------------
 
 GTK Theme
