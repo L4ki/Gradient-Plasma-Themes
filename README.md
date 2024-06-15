@@ -46,7 +46,7 @@ Changelog: 08.06.2024.
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: gtkrc
 
 Icons 
 -----
@@ -56,7 +56,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: margins-highlight.svg
+Update widget: background.svg
 
 Aurorae Themes
 --------------
