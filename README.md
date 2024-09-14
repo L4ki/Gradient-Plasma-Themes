@@ -40,13 +40,13 @@ Screenshots "Gradient-Dark-Plasma":
 
 ______________________________________
 
-Changelog: 08.09.2024.
+Changelog: 15.09.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: hacks.rc
+Update: gtk-4.0
 
 Icons 
 -----
@@ -56,7 +56,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: tooltip.svg
+Update widget: plasmoidheading.svg.svg
 
 Aurorae Themes
 --------------
