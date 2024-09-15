@@ -56,7 +56,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: plasmoidheading.svg.svg
+Update widget: plasmoidheading.svg
 
 Aurorae Themes
 --------------
