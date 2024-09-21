@@ -5,7 +5,7 @@
    viewBox="0 0 36.400002 36"
    width="36.400002"
    sodipodi:docname="radiobutton.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    version="1.1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -53,7 +53,7 @@
   <sodipodi:namedview
      id="namedview14"
      pagecolor="#000000"
-     bordercolor="#008080"
+     bordercolor="#006666"
      borderopacity="1"
      inkscape:pageshadow="0"
      inkscape:pageopacity="1"
@@ -64,10 +64,10 @@
      inkscape:showpageshadow="false"
      inkscape:deskcolor="#000000"
      inkscape:zoom="5.9"
-     inkscape:cx="27.542373"
+     inkscape:cx="27.627119"
      inkscape:cy="14.491525"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -83,7 +83,8 @@
   </sodipodi:namedview>
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Highlight { color:#476382;    stop-color:#476382; }&#10;</style>
+     id="current-color-scheme">.ColorScheme-Highlight { color:#476382;    stop-color:#476382; }
+</style>
   <g
      id="checked"
      transform="translate(10.400002,4)">
