@@ -4,7 +4,7 @@
    version="1.1"
    viewBox="0 0 115 36"
    sodipodi:docname="switch.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    width="115"
    height="36"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -52,18 +52,18 @@
   <sodipodi:namedview
      id="namedview55"
      pagecolor="#000000"
-     bordercolor="#017f7f"
+     bordercolor="#016565"
      borderopacity="1"
      inkscape:showpageshadow="false"
      inkscape:pageopacity="1"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#000000"
      showgrid="true"
-     inkscape:zoom="4.9251536"
-     inkscape:cx="64.668034"
-     inkscape:cy="59.592051"
+     inkscape:zoom="3.4826095"
+     inkscape:cx="68.052419"
+     inkscape:cy="47.521837"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,26 @@
   </sodipodi:namedview>
   <style
      id="current-color-scheme"
-     type="text/css">.ColorScheme-Text {&#10;            color:#232629;&#10;            stop-color:#232629;&#10;        }&#10;        .ColorScheme-Background {&#10;            color:#eff0f1;&#10;            stop-color:#eff0f1;&#10;        }&#10;.ColorScheme-Highlight { &#10;    color:#5e81ac;&#10;    stop-color:#5e81ac;&#10;}&#10;        .ColorScheme-ButtonText {&#10;            color:#232629;&#10;            stop-color:#232629;&#10;        }&#10;        .ColorScheme-ButtonBackground {&#10;            color:#eff0f1;&#10;            stop-color:#eff0f1;&#10;        }</style>
+     type="text/css">.ColorScheme-Text {
+            color:#232629;
+            stop-color:#232629;
+        }
+        .ColorScheme-Background {
+            color:#eff0f1;
+            stop-color:#eff0f1;
+        }
+.ColorScheme-Highlight { 
+    color:#5e81ac;
+    stop-color:#5e81ac;
+}
+        .ColorScheme-ButtonText {
+            color:#232629;
+            stop-color:#232629;
+        }
+        .ColorScheme-ButtonBackground {
+            color:#eff0f1;
+            stop-color:#eff0f1;
+        }</style>
   <rect
      id="hint-stretch-borders"
      y="7.0100002"
