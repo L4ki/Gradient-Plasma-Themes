@@ -7,7 +7,7 @@ Comment[en_GB]=Gradient-KDE-Story-Blue-Dark-Icons
 
 DisplayDepth=32
 
-Inherits=breeze-dark,breeze,Adwaita,hicolor
+Inherits=breeze,hicolor,Adwaita
 
 Example=folder
 
