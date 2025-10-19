@@ -37,21 +37,20 @@ Screenshots "Gradient-Dark-Plasma":
 
 ![5](https://github.com/L4ki/Gradient-Plasma-Themes/assets/45247573/0fba5faf-0a18-4f81-9751-41554f5f4f66)
 
-
 ______________________________________
 
-Changelog: 12.10.2025.
+Changelog: 19.10.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: apps.rc
 
 Icons 
 -----
 
-Added new icons: apps 32, 48
+Added new icons: apps 48
 
 Plasma Theme
 ------------
