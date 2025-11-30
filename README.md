@@ -39,18 +39,18 @@ Screenshots "Gradient-Dark-Plasma":
 
 ______________________________________
 
-Changelog: 23.11.2025.
+Changelog: 30.11.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: styles
+Update: hacks.rc
 
 Icons 
 -----
 
-Added new icons: apps 32
+Update icons: status 24
 
 Plasma Theme
 ------------
